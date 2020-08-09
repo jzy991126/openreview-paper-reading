@@ -1,4 +1,8 @@
 # openreview-paper-reading
 
-[test][./总结.md]
+[test][1]
+
+[1]: 总结.md
+
+
 
